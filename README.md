@@ -1,4 +1,4 @@
-# SaveAsCSVWithoutOpeningit
+# SaveAsCSVWithoutOpeningIt
 
 ### 📄 README Section for GitHub
 
