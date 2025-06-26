@@ -54,3 +54,15 @@ MonthlyReport_Export_20250625_1730.csv
 - If you need to export multiple sheets, let me know and I can help extend the functionality.
 
 ---
+
+## 📄 License
+
+MIT License — free to use, modify, and redistribute.
+
+---
+
+## 🙌 Credits
+
+Made by Mohamed El-ansary — inspired by the need to version Excel workbooks without version control software.
+
+---
