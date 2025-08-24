@@ -1,9 +1,5 @@
 # SaveAsCSVWithoutOpeningIt
 
-### 📄 README Section for GitHub
-
-Add this to your repo `README.md`:
-
 ---
 
 ## 🧾 AutoSaveSheetAsUTF8CSVWithTimestamp
