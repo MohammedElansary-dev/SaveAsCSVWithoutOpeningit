@@ -56,9 +56,3 @@ MonthlyReport_Export_20250625_1730.csv
 MIT License — free to use, modify, and redistribute.
 
 ---
-
-## 🙌 Credits
-
-Made by Mohamed El-ansary — inspired by the need to version Excel workbooks without version control software.
-
----
